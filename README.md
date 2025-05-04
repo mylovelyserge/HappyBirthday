@@ -1,1 +1,2 @@
-First Kotlin project. Writed by Jetpack Compose
+First Kotlin project. By Jetpack Compose
+This is Happy Birthday card
